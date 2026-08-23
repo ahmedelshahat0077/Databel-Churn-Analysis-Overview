@@ -34,7 +34,4 @@ This project analyzes customer churn for **Databel** to identify why customers l
 4. **Targeted Campaigns:** Run localized retention deals in high-churn states like California.
 5. **Early Warning System:** Monitor support call frequency as an indicator for churn risk.
 
----
 
-## 📸 Dashboard Preview
-*(Add your dashboard screenshot here)*
