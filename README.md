@@ -3,7 +3,10 @@
 ## 📌 Project Overview
 This project analyzes customer churn for **Databel** to identify why customers leave and provide data-driven solutions to lower churn and protect business revenue.
 
-<img width="1074" height="624" alt="19-03-55" src="https://github.com/user-attachments/assets/0c78f315-f665-459d-bc8d-fbae7ec91fc1" />
+
+
+<img width="1072" height="620" alt="19-53-51" src="https://github.com/user-attachments/assets/3b065aea-4397-46d3-9ee6-0f32f7ee0563" />
+
 
 
 ## 🛠️ Tech Stack & Workflow
