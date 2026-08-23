@@ -33,5 +33,3 @@ This project analyzes customer churn for **Databel** to identify why customers l
 3. **Senior Care Packages:** Create simplified plans and dedicated customer support for senior citizens.
 4. **Targeted Campaigns:** Run localized retention deals in high-churn states like California.
 5. **Early Warning System:** Monitor support call frequency as an indicator for churn risk.
-
-
